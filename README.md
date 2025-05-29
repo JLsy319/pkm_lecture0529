@@ -30,3 +30,19 @@ marker_single /path/to/file.pdf --output_dir /path/to/file --use_llm --gemini_ap
 
 [Markitdown from Microsoft](https://github.com/microsoft/markitdown)
 
+## RSS Subscription
+
+Chrome Extension: [RSSHub Radar](https://chromewebstore.google.com/detail/rsshub-radar/kefjpfngnndepjbopdmoebkipbgkggaa?hl=en-US&utm_source=ext_sidebar)
+
+RSS Reader: [Folo](https://github.com/RSSNext/Folo)]
+
+- Try on the Browser: [Web App](https://app.follow.is/)
+- Install `Folo` on MacOS:
+  ```shell
+  brew install --cask folo
+  ```
+- Install `Folo` on Windows with scoop
+  ```shell
+  scoop install folo
+  ```
+
