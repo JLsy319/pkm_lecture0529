@@ -1,4 +1,4 @@
-# 学子论坛0529
+# 学子论坛 0529
 
 @ShanghaiTech University  
 Speaker: Siyun Liu
@@ -9,7 +9,7 @@ Speaker: Siyun Liu
 
 [Marker from VikParuchuri](https://github.com/VikParuchuri/marker)
 
-For conda user to try marker, install it with
+For conda user to try `marker`, install it with the following commands.
 
 ```shell
 conda create --name marker
@@ -42,6 +42,8 @@ Chrome Extension: [RSSHub Radar](https://chromewebstore.google.com/detail/rsshub
 
 RSS Reader: [Folo](https://github.com/RSSNext/Folo)
 
+Installation:
+
 - Try on the Browser: [Web App](https://app.follow.is/)
 - Install `Folo` on MacOS
   ```shell
@@ -57,7 +59,7 @@ RSS Reader: [Folo](https://github.com/RSSNext/Folo)
 Cubox: [Web App](https://cubox.pro/)
 
 > [!CAUTION]
-> Choose the Chinese server instead of the international one, much better for localized content.
+> Choose the Chinese server instead of the international one, which is much better for localized content.
 
 ## Obsidian
 
@@ -66,6 +68,8 @@ Cubox: [Web App](https://cubox.pro/)
 [Official Website](https://obsidian.md/)
 
 [Obsidian Help](https://help.obsidian.md/)
+
+Installation:
 
 - Install `Obsidian` on MacOS
   ```shell
@@ -76,22 +80,59 @@ Cubox: [Web App](https://cubox.pro/)
   winget install Obsidian.Obsidian
   ```
 
-### Plugins
+### Useful Plugins
 
 - Remotely Save
+  - Recommend WebdAV synchronization
 - Zotero Integration
 - Dataview
+  - [Example Vault](https://github.com/s-blu/obsidian_dataview_example_vault)
 - Mermaid Tools
-- Math Indicator Changer
+  - [Official documentation](https://mermaid.js.org/intro/)
+- [Math Indicator Changer](https://github.com/Ori-Replication/obsidian-math-indicator-changer)
 
 ### Copilot
 
-Silicon Flow: [Website](https://cloud.siliconflow.cn/models)
+API Call:
+
+- DeepSeek and Qwen, check [siliconflow](https://cloud.siliconflow.cn/models)
+
+- Cost-effective choice: [Gemini](https://ai.google.dev/gemini-api/docs)
+
+## Alternative for academic research - AnythingLLM
+
+Installation:
+
+- Install `AnythingLLM` on MacOS
+  ```shell
+  brew install --cask anythingllm
+  ```
+- Install `AnythingLLM` on Windows with scoop
+  ```shell
+  scoop install anythingllm
+  ```
+
+## Local LLM Deployment
+
+- Ollama
+- LM Studio
 
 ## More Tools
 
-- Homebrew & winget
-- 1Password
-- Koodo Reader
-- Bionic Reading
+1. Package Manager
 
+- [Homebrew](https://brew.sh/)
+- [winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/)
+
+2. Password Manager
+
+- [1Password](https://1password.com/) (requiring VISA card)
+- [Password Generator](https://1password.com/zh-cn/password-generator) from 1Password
+
+3. Reading
+
+- [Koodo Reader](https://github.com/koodo-reader/koodo-reader): recommend the PRO version for seamless experience
+- Bionic reading method
+  - Edge/Chrome extension: [Bionic Reading](https://chromewebstore.google.com/detail/bionic-reading-aaread/glncdcmjopmgniilckffbhcpkgambpko)
+  - Firefox extension: [Bionic Reader](https://addons.mozilla.org/en-GB/firefox/addon/bionic-reader/?utm_content=addons-manager-reviews-link&utm_medium=firefox-browser&utm_source=firefox-browser)
+  - Application: [Bionic Reading](https://bionic-reading.com/)
