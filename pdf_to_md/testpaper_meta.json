@@ -1,0 +1,585 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ATOMIC PHYSICS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          36.2186279296875,
+          38.9212646484375
+        ],
+        [
+          115.7255859375,
+          37.4447021484375
+        ],
+        [
+          115.7255859375,
+          47.90771484375
+        ],
+        [
+          36.2186279296875,
+          49.141845703125
+        ]
+      ]
+    },
+    {
+      "title": "The helion charge radius from \nlaser spectroscopy of muonic \nhelium-3 ions",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.312255859375,
+          55.509521484375
+        ],
+        [
+          243.8704071044922,
+          54.032958984375
+        ],
+        [
+          243.8704071044922,
+          116.8330078125
+        ],
+        [
+          35.312255859375,
+          118.3095703125
+        ]
+      ]
+    },
+    {
+      "title": "Principle and experimental setup",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          303.0,
+          532.2168731689453
+        ],
+        [
+          435.16400146484375,
+          532.2168731689453
+        ],
+        [
+          435.16400146484375,
+          543.005859375
+        ],
+        [
+          303.0,
+          543.005859375
+        ]
+      ]
+    },
+    {
+      "title": "Measurements and data analysis",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          303.0,
+          38.71685791015625
+        ],
+        [
+          434.3184814453125,
+          37.56005859375
+        ],
+        [
+          434.3184814453125,
+          48.21685791015625
+        ],
+        [
+          303.0,
+          49.18798828125
+        ]
+      ]
+    },
+    {
+      "title": "Experimental results",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          303.0,
+          668.7168655395508
+        ],
+        [
+          386.33203125,
+          668.7168655395508
+        ],
+        [
+          386.33203125,
+          679.21875
+        ],
+        [
+          303.0,
+          679.21875
+        ]
+      ]
+    },
+    {
+      "title": "The helion charge radius and the isotope shift",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          302.220703125,
+          406.0546875
+        ],
+        [
+          486.4830017089844,
+          406.0546875
+        ],
+        [
+          486.4830017089844,
+          415.71685791015625
+        ],
+        [
+          302.220703125,
+          415.71685791015625
+        ]
+      ]
+    },
+    {
+      "title": "Research Articles",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          464.0625,
+          16.80743408203125
+        ],
+        [
+          557.0008544921875,
+          16.80743408203125
+        ],
+        [
+          557.0008544921875,
+          26.6934814453125
+        ],
+        [
+          464.0625,
+          26.6934814453125
+        ]
+      ]
+    },
+    {
+      "title": "Nuclear-structure contribution for the 2S HFS",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          302.220703125,
+          427.21685791015625
+        ],
+        [
+          487.265625,
+          426.7265625
+        ],
+        [
+          487.265625,
+          437.0844421386719
+        ],
+        [
+          302.220703125,
+          437.80078125
+        ]
+      ]
+    },
+    {
+      "title": "Discussion and outlook",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          302.5107421875,
+          668.7168655395508
+        ],
+        [
+          397.0634765625,
+          667.775390625
+        ],
+        [
+          397.0634765625,
+          678.2168655395508
+        ],
+        [
+          302.5107421875,
+          679.587890625
+        ]
+      ]
+    },
+    {
+      "title": "Research Articles",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          36.6536865234375,
+          15.919189453125
+        ],
+        [
+          130.517578125,
+          15.919189453125
+        ],
+        [
+          130.517578125,
+          26.67041015625
+        ],
+        [
+          36.6536865234375,
+          26.67041015625
+        ]
+      ]
+    },
+    {
+      "title": "REFERENCES AND NOTES",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          36.544921875,
+          313.400390625
+        ],
+        [
+          126.7470703125,
+          313.400390625
+        ],
+        [
+          126.7470703125,
+          322.62890625
+        ],
+        [
+          36.544921875,
+          322.62890625
+        ]
+      ]
+    },
+    {
+      "title": "ACKNOWLEDGMENTS",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          302.80078125,
+          301.4033203125
+        ],
+        [
+          379.951171875,
+          301.4033203125
+        ],
+        [
+          379.951171875,
+          311.0009765625
+        ],
+        [
+          302.80078125,
+          311.0009765625
+        ]
+      ]
+    },
+    {
+      "title": "SUPPLEMENTARY MATERIALS",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          303.0000305175781,
+          581.765625
+        ],
+        [
+          408.0849609375,
+          581.765625
+        ],
+        [
+          408.0849609375,
+          590.625
+        ],
+        [
+          303.0000305175781,
+          590.625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          861
+        ],
+        [
+          "Line",
+          117
+        ],
+        [
+          "Reference",
+          20
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "TextInlineMath",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Equation",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 5,
+        "llm_error_count": 0,
+        "llm_tokens_used": 19916
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          600
+        ],
+        [
+          "Line",
+          120
+        ],
+        [
+          "Reference",
+          7
+        ],
+        [
+          "Equation",
+          6
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 2,
+        "llm_error_count": 0,
+        "llm_tokens_used": 6369
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          643
+        ],
+        [
+          "Line",
+          112
+        ],
+        [
+          "Reference",
+          12
+        ],
+        [
+          "Equation",
+          11
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "TextInlineMath",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 6,
+        "llm_error_count": 0,
+        "llm_tokens_used": 26234
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          886
+        ],
+        [
+          "Line",
+          140
+        ],
+        [
+          "Reference",
+          25
+        ],
+        [
+          "TextInlineMath",
+          7
+        ],
+        [
+          "Equation",
+          6
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 3,
+        "llm_error_count": 0,
+        "llm_tokens_used": 11459
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          892
+        ],
+        [
+          "Line",
+          129
+        ],
+        [
+          "Reference",
+          59
+        ],
+        [
+          "ListItem",
+          57
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 1,
+        "llm_error_count": 0,
+        "llm_tokens_used": 4401
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/testpaper"
+}
